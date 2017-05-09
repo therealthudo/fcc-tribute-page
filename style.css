@@ -1,0 +1,41 @@
+body {
+  padding: 30px 0px 0px 0px;
+}
+
+h1 {
+  color: #FFA500;
+}
+
+.bottom-content {
+  background-color: #292929;
+  padding: 30px 30px;
+}
+
+.body-width {
+  width: 100%;
+}
+
+p {
+  padding: 10px 0px 0px 0px;
+  color: white;
+}
+
+img {
+  width: 100%;
+}
+
+.quote {
+  margin: 20px 0px;
+  color: #FFA500;
+}
+
+.history-list {
+  color: white;
+}
+
+
+/*
+.hero-img{
+  border-radius: 50%;
+}
+*/
